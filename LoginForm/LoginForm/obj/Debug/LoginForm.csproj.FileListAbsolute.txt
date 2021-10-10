@@ -1,0 +1,13 @@
+E:\HOckin4\BAOCAO\LoginFile\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+E:\HOckin4\BAOCAO\LoginFile\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+E:\HOckin4\BAOCAO\LoginFile\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+E:\HOckin4\BAOCAO\LoginFile\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+E:\HOckin4\BAOCAO\LoginFile\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+E:\HOckin4\BAOCAO\LoginFile\LoginForm\LoginForm\obj\Debug\LoginForm.LoginForm.resources
+E:\HOckin4\BAOCAO\LoginFile\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+E:\HOckin4\BAOCAO\LoginFile\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+E:\HOckin4\BAOCAO\LoginFile\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+E:\HOckin4\BAOCAO\LoginFile\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+E:\HOckin4\BAOCAO\LoginFile\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+E:\HOckin4\BAOCAO\LoginFile\LoginForm\LoginForm\bin\Debug\Database1.mdf
+E:\HOckin4\BAOCAO\LoginFile\LoginForm\LoginForm\bin\Debug\Database1_log.ldf
